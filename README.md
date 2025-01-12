@@ -1,7 +1,4 @@
-# SALES-ANALYSIS-DASHBOARD
-
-
-THE SHOPPING TREND DASHBOARD
+#THE SHOPPING TREND DASHBOARD
 This project showcases a shopping trend dashboard built with  Power Bi. The analysis focuses on monthly sales trends, regional performance and customer segmentations.
 TOOLS USED: -Power BI, SQL, Excel
 Key insights:
